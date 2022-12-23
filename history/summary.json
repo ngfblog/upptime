@@ -4,18 +4,20 @@
     "url": "https://ha.nirgf.com/",
     "icon": "https://icons.duckduckgo.com/ip3/ha.nirgf.com.ico",
     "slug": "home-assistant",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 673,
-    "timeDay": 791,
-    "timeWeek": 673,
-    "timeMonth": 673,
-    "timeYear": 673,
-    "dailyMinutesDown": {}
+    "time": 686,
+    "timeDay": 790,
+    "timeWeek": 700,
+    "timeMonth": 686,
+    "timeYear": 686,
+    "dailyMinutesDown": {
+      "2022-12-23": 0
+    }
   },
   {
     "name": "Ngfblog",
@@ -30,7 +32,7 @@
     "uptimeYear": "100.00%",
     "time": 451,
     "timeDay": 706,
-    "timeWeek": 451,
+    "timeWeek": 480,
     "timeMonth": 451,
     "timeYear": 451,
     "dailyMinutesDown": {}
