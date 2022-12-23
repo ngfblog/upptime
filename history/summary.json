@@ -4,19 +4,19 @@
     "url": "https://ha.nirgf.com/",
     "icon": "https://icons.duckduckgo.com/ip3/ha.nirgf.com.ico",
     "slug": "home-assistant",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 638,
-    "timeDay": 607,
-    "timeWeek": 645,
-    "timeMonth": 638,
-    "timeYear": 638,
+    "status": "up",
+    "uptime": "99.83%",
+    "uptimeDay": "98.76%",
+    "uptimeWeek": "99.82%",
+    "uptimeMonth": "99.83%",
+    "uptimeYear": "99.83%",
+    "time": 642,
+    "timeDay": 621,
+    "timeWeek": 648,
+    "timeMonth": 642,
+    "timeYear": 642,
     "dailyMinutesDown": {
-      "2022-12-23": 0
+      "2022-12-23": 18
     }
   },
   {
