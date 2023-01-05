@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/ha.nirgf.com.ico",
     "slug": "home-assistant",
     "status": "up",
-    "uptime": "99.93%",
+    "uptime": "99.94%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.93%",
-    "uptimeYear": "99.93%",
-    "time": 671,
-    "timeDay": 520,
-    "timeWeek": 700,
-    "timeMonth": 671,
-    "timeYear": 671,
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.94%",
+    "time": 677,
+    "timeDay": 837,
+    "timeWeek": 711,
+    "timeMonth": 677,
+    "timeYear": 677,
     "dailyMinutesDown": {
       "2022-12-23": 18
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 441,
-    "timeDay": 208,
-    "timeWeek": 436,
-    "timeMonth": 441,
-    "timeYear": 441,
+    "time": 457,
+    "timeDay": 782,
+    "timeWeek": 494,
+    "timeMonth": 457,
+    "timeYear": 457,
     "dailyMinutesDown": {}
   }
 ]
