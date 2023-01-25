@@ -28,19 +28,19 @@
     "url": "https://ngfblog.com/",
     "icon": "https://icons.duckduckgo.com/ip3/ngfblog.com.ico",
     "slug": "ngfblog",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.84%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 493,
-    "timeDay": 670,
-    "timeWeek": 526,
-    "timeMonth": 503,
-    "timeYear": 493,
+    "time": 608,
+    "timeDay": 2999,
+    "timeWeek": 1126,
+    "timeMonth": 654,
+    "timeYear": 608,
     "dailyMinutesDown": {
-      "2023-01-25": 0
+      "2023-01-25": 2
     }
   }
 ]
